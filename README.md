@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mert HAYAT</h1>
 <h3 align="center">I am involved in Cybersecurity, Penetration Testing, and working with hacking tools. I have knowledge in languages such as Python, CSS, HTML, and Arduino. I can also use game development programs like Unreal Engine and Unity.</h3>
 
-- 🔭 My Discord Server **Ardunio**
+- 🔭 My Discord Server **https://discord.gg/7FmPRBug7F**
 
 - 📫 How to reach me **Discord:1has.**
 
